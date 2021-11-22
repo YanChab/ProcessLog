@@ -1,0 +1,12 @@
+C:\Users\ychab\Repos\ProcessLog\Shared\bin\Debug\net6.0\ProcessLog.Shared.deps.json
+C:\Users\ychab\Repos\ProcessLog\Shared\bin\Debug\net6.0\ProcessLog.Shared.dll
+C:\Users\ychab\Repos\ProcessLog\Shared\bin\Debug\net6.0\ref\ProcessLog.Shared.dll
+C:\Users\ychab\Repos\ProcessLog\Shared\bin\Debug\net6.0\ProcessLog.Shared.pdb
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.csproj.AssemblyReference.cache
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.AssemblyInfoInputs.cache
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.AssemblyInfo.cs
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.dll
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ref\ProcessLog.Shared.dll
+C:\Users\ychab\Repos\ProcessLog\Shared\obj\Debug\net6.0\ProcessLog.Shared.pdb
