@@ -4559,134 +4559,35 @@
         }
       },
       {
-        "HashCode": 39702213,
+        "HashCode": 429862898,
         "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.Index",
+        "Name": "ProcessLog.Client.Shared.NavMenu",
         "AssemblyName": "ProcessLog.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.Index"
+          "Common.TypeName": "ProcessLog.Client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -638910637,
+        "HashCode": 949913325,
         "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.Index",
+        "Name": "ProcessLog.Client.Shared.NavMenu",
         "AssemblyName": "ProcessLog.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ProcessLog.Client.Pages.Index"
+            "TagName": "ProcessLog.Client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 897887862,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.Counter",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 130729256,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.Counter",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ProcessLog.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -909420822,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.FetchData",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1475850675,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Pages.FetchData",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ProcessLog.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -756045716,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.App",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.App"
-        }
-      },
-      {
-        "HashCode": -61630285,
-        "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.App",
-        "AssemblyName": "ProcessLog.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ProcessLog.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.App",
+          "Common.TypeName": "ProcessLog.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4787,35 +4688,101 @@
         }
       },
       {
-        "HashCode": 429862898,
+        "HashCode": -756045716,
         "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Shared.NavMenu",
+        "Name": "ProcessLog.Client.App",
         "AssemblyName": "ProcessLog.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Shared.NavMenu"
+          "Common.TypeName": "ProcessLog.Client.App"
         }
       },
       {
-        "HashCode": 949913325,
+        "HashCode": -61630285,
         "Kind": "Components.Component",
-        "Name": "ProcessLog.Client.Shared.NavMenu",
+        "Name": "ProcessLog.Client.App",
         "AssemblyName": "ProcessLog.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ProcessLog.Client.Shared.NavMenu"
+            "TagName": "ProcessLog.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "ProcessLog.Client.Shared.NavMenu",
+          "Common.TypeName": "ProcessLog.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 897887862,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Counter",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 130729256,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Counter",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProcessLog.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 39702213,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Index",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -638910637,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Index",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProcessLog.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -197,14 +197,14 @@
       "netstandard.dll": "sha256-E48Na3ZQWKExltzTwgP0Ao+UqWhiVYeerXfUL9lEc+c=",
       "System.Private.CoreLib.dll": "sha256-J85Z1XnwapHef31sR58JFq+0HrFP5BjOoObPKjdFHCw=",
       "ProcessLog.Shared.dll": "sha256-LbzRj+r1pXGI0Yp7glCaSW2GxfxNMRPTp\/rpIkSXKhg=",
-      "ProcessLog.Client.dll": "sha256-gUeAHk9Dj2F7+IzRYSwbUrHdrDtzAVQYKiZVBCPMuO4="
+      "ProcessLog.Client.dll": "sha256-s2ombK+A0zdblsBVsJ4S3x2OYWjbdPBmcLIjI8kB5cw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "ProcessLog.Shared.pdb": "sha256-5EC6FFoUZ0hR+itzDnSJJyjpAJwUeCsb04Jkx4R97G8=",
-      "ProcessLog.Client.pdb": "sha256-Me4CiAudLuakBFsMH++VHf58CMejKmzuxjrMRXqRZTI="
+      "ProcessLog.Client.pdb": "sha256-xOLtjsNyXLglhnQTPvn\/UdR4RBOz1LLD+idh1fQv3Aw="
     },
     "runtime": {
       "dotnet.6.0.0.4krur5mnqh.js": "sha256-LOq52qjRa3+zt3w4UL10rS3UdwHxVQxW0JAsMPO9QAM=",
