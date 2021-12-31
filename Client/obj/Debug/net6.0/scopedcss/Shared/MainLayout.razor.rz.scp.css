@@ -1,23 +1,29 @@
-.page[b-44knewmhiu] {
+page[b-44knewmhiu] {
   display: flex;
   flex-direction: column;
+  background-color: #ABF0AB;
+  height: 100vh;
 }
 
-main[b-44knewmhiu] {
-  flex: 1;
-}
-
-.sidebar[b-44knewmhiu] {
-  background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+menu[b-44knewmhiu] {
   width: 100%;
   height: 50px;
   position: sticky;
   top: 0;
   display: flex;
   justify-content: space-around;
+  align-items: top;
 }
 
-footer[b-44knewmhiu]{
-  position: absolute;
-  bottom: 0;
+main[b-44knewmhiu] {
+  background-color: #f8e9e9;
+  height: 100%;
+  border-radius: 300px 0px 50px 0px / 50px 0px 300px 0px;
+}
+
+footer[b-44knewmhiu] {
+   bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
