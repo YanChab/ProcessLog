@@ -1,0 +1,114 @@
+.couleur{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-spacing: 10px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-content: stretch;
+
+}
+.box{
+    text-align: center;
+    font-size: 15px;
+    font-weight:900;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.dark{
+    background-color: var(--dark);
+    color: var(--light);
+}
+.light{
+    background-color: var(--light);
+    color: var(--dark);
+}
+.coulprinc1{
+    background-color: var(--prin1);
+    color: var(--dark);
+}
+.coulprinc2{
+    background-color: var(--prin2);
+    color: var(--dark);
+}
+.coulprinc3{
+    background-color: var(--prin3);
+    color: var(--dark);
+}
+.coulcomp1{
+    background-color: var(--comp1);
+    color: var(--dark);
+}
+.coulcomp2{
+    background-color: var(--comp2);
+    color: var(--light);
+}
+.coulcomp3{
+    background-color: var(--comp3);
+    color: var(--light);
+}
+.coulprincclair1{
+    background-color: var(--prin1-clair);
+    color: var(--dark);
+}
+.coulprincclair2{
+    background-color: var(--prin2-clair);
+    color: var(--dark);
+}
+.coulprincclair3{
+    background-color: var(--prin3-clair);
+    color: var(--dark);
+}
+.coulcompclair1{
+    background-color: var(--comp1-clair);
+    color: var(--dark);
+}
+.coulcompclair2{
+    background-color: var(--comp2-clair);
+    color: var(--light);
+}
+.coulcompclair3{
+    background-color: var(--comp3-clair);
+    color: var(--light);
+}
+.coulprincfonce1{
+    background-color: var(--prin1-fonce);
+    color: var(--light);
+}
+.coulprincfonce2{
+    background-color: var(--prin2-fonce);
+    color: var(--light);
+}
+.coulprincfonce3{
+    background-color: var(--prin3-fonce);
+    color: var(--light);
+}
+.coulcompfonce1{
+    background-color: var(--comp1-fonce);
+    color: var(--light);
+}
+.coulcompfonce2{
+    background-color: var(--comp2-fonce);
+    color: var(--light);
+}
+.coulcompfonce3{
+    background-color: var(--comp3-fonce);
+    color: var(--light);
+}
+.coulprincgrey1{
+    background-color: var(--prin1-grey);
+    color: var(--comp1);
+}
+.coulcompgrey1{
+    background-color: var(--comp1-grey);
+    color: var(--prin1);
+}

@@ -3,6 +3,34 @@
 *{
     padding: 0;
     margin: 0;
+    /* Couleur par défaut */
+    color:var(--dark);
+}
+
+:root{
+    --light:#F3FFF3;/*rgba(243,255,243,1) */
+    --dark:#272222;/*rgba( 39, 34, 34,1) */
+    --prin1:#8A1215;/*rgba(138, 18, 21,1)*/
+    --prin1-clair:#D0575A;/*rgba(172, 47, 50,1)*/
+    --prin1-fonce:#630003;/*rgba( 99,  0,  3,1)*/
+    --prin1-grey:#D1C5C5;/*rgba(209,197,197,1)*/
+    --prin2:#8B6212;/*rgba(139, 98, 18,1)*/
+    --prin2-clair:#D1A857;/*rgba(209,168, 87,1)*/
+    --prin2-fonce:#644200;/*rgba(100, 66,  0,1)*/
+    --prin3:#8B8A12;/*rgba(139,138, 18,1)*/
+    --prin3-clair:#D1D157;/*rgba(209,209, 87,1)*/
+    --prin3-fonce:#646300;/*rgba(100, 99,  0,1)*/
+    --comp1:#14710F;/*rgba( 20,113, 15,1)*/
+    --comp1-clair:#4CAA47;/*rgba( 76,170, 71,1)*/
+    --comp1-fonce:#045100;/*rgba(  4, 81,  0,1)*/
+    --comp1-grey:#A1ABA1;/*rgba(161,171,161,1)*/    
+    --comp2:#142C5D;/*rgba( 20, 44, 93,1)*/
+    --comp2-clair:#435A8C;/*rgba( 67, 90,140,1)*/
+    --comp2-fonce:#061A43;/*rgba(  6, 26, 67,1)*/
+    --comp3:#41115D;/*rgba( 65, 17, 93,1)*/
+    --comp3-clair:#6F3F8C;/*rgba(111, 63,140,1)*/
+    --comp3-fonce:#2B0443;/*rgba( 43,  4, 67,1)*/
+
 }
 
 html, body {

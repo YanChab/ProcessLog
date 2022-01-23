@@ -4592,6 +4592,39 @@
         }
       },
       {
+        "HashCode": 39702213,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Index",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -638910637,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Pages.Index",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProcessLog.Client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1663572057,
         "Kind": "Components.Component",
         "Name": "ProcessLog.Client.Pages.EditModel",

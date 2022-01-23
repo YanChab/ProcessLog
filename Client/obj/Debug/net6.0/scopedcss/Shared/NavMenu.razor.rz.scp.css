@@ -8,7 +8,7 @@ nav[b-vq85bom6mq] {
 }
 
 .nav-item[b-vq85bom6mq]  a {
-  color: #FF6161;
+  color: var(--prin1);
   border-radius: 4px;
   height: 3rem;
   display: flex;
@@ -18,10 +18,10 @@ nav[b-vq85bom6mq] {
 }
 
 .nav-item[b-vq85bom6mq]  a.active {
-  color: #FF6161;
+  color: var(--prin1);
   font-weight: bold;
 }
 
 .nav-item[b-vq85bom6mq]  a:hover {
-  color: #E71D1D;
+  color: var(--prin1);
 }

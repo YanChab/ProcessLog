@@ -1,23 +1,22 @@
 page[b-44knewmhiu] {
   display: flex;
   flex-direction: column;
-  background-color: #ABF0AB;
+  background-color: var(--comp1-grey);
   height: 100vh;
 }
 
 menu[b-44knewmhiu] {
   width: 100%;
-  height: 50px;
-  position: sticky;
-  top: 0;
+  min-height: 50px;
   display: flex;
   justify-content: space-around;
   align-items: top;
 }
 
 main[b-44knewmhiu] {
-  background-color: #f8e9e9;
-  height: 100%;
+  text-align: center;
+  background-color: var(--light);
+  height: 100vh;
   border-radius: 300px 0px 50px 0px / 50px 0px 300px 0px;
 }
 

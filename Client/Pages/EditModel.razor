@@ -3,9 +3,48 @@
 <PageTitle>Modèle de projet</PageTitle>
 
 <h1>Edition du modèle</h1>
-
-
+@if (Couleurs==null)
+{
+    <p><em>Loading...</em></p>
+    <br />
+}
+else{
+<div class="couleur">
+    @for (int i = 0; i < @Couleurs.GetUpperBound(0)+1; i++)
+    {
+            <div class="@Couleurs[i,0] box">@Couleurs[i,1]</div>
+    }
+    
+</div>
+}
 
 @code {
+    string[,]? Couleurs;
     
+    protected override void OnInitialized(){
+    Couleurs=new string[,]{
+        {"dark","Dark"},
+        {"light","Light"},
+        {"coulprinc1","Couleur principale 1"},
+        {"coulprinc2","Couleur principale 2"},
+        {"coulprinc3","Couleur principale 3"},
+        {"coulcomp1","Couleur complémentaire 1"},
+        {"coulcomp2","Couleur complémentaire 2"},
+        {"coulcomp3","Couleur complémentaire 3"},
+        {"coulprincclair1","Couleur principale 1 clair"},
+        {"coulprincclair2","Couleur principale 2 clair"},
+        {"coulprincclair3","Couleur principale 3 clair"},
+        {"coulcompclair1","Couleur complémentaire 1 clair"},
+        {"coulcompclair2","Couleur complémentaire 2 clair"},
+        {"coulcompclair3","Couleur complémentaire 3 clair"},
+        {"coulprincfonce1","Couleur principale 1 fonce"},
+        {"coulprincfonce2","Couleur principale 2 fonce"},
+        {"coulprincfonce3","Couleur principale 3 fonce"},
+        {"coulcompfonce1","Couleur complémentaire 1 fonce"},
+        {"coulcompfonce2","Couleur complémentaire 2 fonce"},
+        {"coulcompfonce3","Couleur complémentaire 3 fonce"},
+        {"coulprincgrey1","Couleur principale 1 grey"},
+        {"coulcompgrey1","Couleur complémentaire 1 grey"}
+        };
+    }
 }
