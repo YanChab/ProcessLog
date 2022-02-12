@@ -107,6 +107,59 @@
         }
       },
       {
+        "HashCode": 182704846,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Shared.Etiquette",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Etiquette"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "etape",
+            "TypeName": "ProcessLog.Shared.Etape",
+            "Metadata": {
+              "Common.PropertyName": "etape"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Shared.Etiquette"
+        }
+      },
+      {
+        "HashCode": 1005572186,
+        "Kind": "Components.Component",
+        "Name": "ProcessLog.Client.Shared.Etiquette",
+        "AssemblyName": "ProcessLog.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProcessLog.Client.Shared.Etiquette"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "etape",
+            "TypeName": "ProcessLog.Shared.Etape",
+            "Metadata": {
+              "Common.PropertyName": "etape"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "ProcessLog.Client.Shared.Etiquette",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 654624358,
         "Kind": "Components.Component",
         "Name": "ProcessLog.Client.Shared.MainLayout",
@@ -13561,6 +13614,11 @@
       "FilePath": "c:\\Users\\ychab\\Repos\\ProcessLog\\Client\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\ychab\\Repos\\ProcessLog\\Client\\Shared\\Etiquette.razor",
+      "TargetPath": "Shared\\Etiquette.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\ychab\\Repos\\ProcessLog\\Client\\Shared\\NavMenu.razor",

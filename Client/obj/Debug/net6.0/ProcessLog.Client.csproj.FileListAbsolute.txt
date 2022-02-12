@@ -822,3 +822,4 @@ C:\Users\ychab\Repos\ProcessLog\Client\obj\Debug\net6.0\build-gz\fTvgoEvi.gz
 C:\Users\ychab\Repos\ProcessLog\Client\obj\Debug\net6.0\build-gz\tJ6yRAvC.gz
 C:\Users\ychab\Repos\ProcessLog\Client\obj\Debug\net6.0\build-gz\2EquFWwT.gz
 C:\Users\ychab\Repos\ProcessLog\Client\obj\Debug\net6.0\scopedcss\Pages\EditModel.razor.rz.scp.css
+C:\Users\ychab\Repos\ProcessLog\Client\obj\Debug\net6.0\scopedcss\Shared\Etiquette.razor.rz.scp.css

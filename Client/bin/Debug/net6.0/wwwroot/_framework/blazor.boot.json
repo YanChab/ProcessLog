@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "ProcessLog.Shared.dll": "sha256-0nmC1gD60Q3yEesLpmMWxDpQ7TQxPibkckh3LCZedfg=",
-      "ProcessLog.Client.dll": "sha256-ANWLteQCYJBIiWgZOHPP5SZqp6SFexXXm+aXCuurzFg="
+      "ProcessLog.Shared.dll": "sha256-YBxEheLaOS\/Zvkl\/+71AwxOH5By9gZobc\/6LF2W+sf0=",
+      "ProcessLog.Client.dll": "sha256-Mmr\/namHVRntHuICk2mSkP+SxM5eif\/7vmpAD5OFlZw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ProcessLog.Shared.pdb": "sha256-Sqe1dh8VL8Egfx5ey0crMfY5tLSIDu8LjU6JYliHpz0=",
-      "ProcessLog.Client.pdb": "sha256-+defgZ9fWHrmJoI9zfmJAPuVOB3jWGLjPu2jijyARNk="
+      "ProcessLog.Shared.pdb": "sha256-ahlvilpNsbAuivHOWgxWzrICPtOIEJEroKkrwrzH5do=",
+      "ProcessLog.Client.pdb": "sha256-sUzKjKrAq8hcsx54bxYgjA\/6byeEQXfkixeXLdSzawI="
     },
     "runtime": {
       "dotnet.6.0.1.1s4i7e8kju.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

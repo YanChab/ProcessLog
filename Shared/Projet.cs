@@ -4,7 +4,7 @@ namespace ProcessLog.Shared
     {
          public string Reference { get; set; }="Renseigner la référence";
          public string Titre { get; set; }="Renseigner le titre";
-         public List<Etape> ListeEtape{ get; set; }
+         public List<Etape> ListeEtape{ get; set; }=new List<Etape>{new Etape(){}};
 
 
     }

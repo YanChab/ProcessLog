@@ -33,6 +33,12 @@ Titre du projet : @ProjetActif.Titre
         @etape.Titre
     </div>
 }
+<div class="listeEtapes">
+    @foreach (var etape in ProjetActif.ListeEtape)
+    {
+        <Etiquette etape="etape" />
+    }
+</div>
 
 @code {
     Projet ProjetActif = new Projet();
@@ -41,19 +47,19 @@ Titre du projet : @ProjetActif.Titre
         ProjetActif.Titre = "Mon nouveu projet";
         ProjetActif.Reference = "Ref du proj";
         ProjetActif.ListeEtape = new List<Etape>{new Etape()
-{
-Titre="Etape 1",
-Numero=1,
-ActivStatus=Etape.Status.ARenseigner
-},new Etape(){
-Titre="Etape 2",
-Numero=2,
-ActivStatus=Etape.Status.ARenseigner
-},new Etape(){
-Titre="Etape 3",
-Numero=3,
-ActivStatus=Etape.Status.ARenseigner
-}};
+        {
+            Titre="Etape 1",
+            Numero=1,
+            ActivStatus=Etape.Status.ARenseigner
+        },new Etape(){
+            Titre="Etape 2",
+            Numero=2,
+            ActivStatus=Etape.Status.ARenseigner
+        },new Etape(){
+            Titre="Etape 3",
+            Numero=3,
+            ActivStatus=Etape.Status.ARenseigner
+        }};
 
     }
 

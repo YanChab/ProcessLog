@@ -11,33 +11,37 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ProcessLog.Client
 build_property.RootNamespace = ProcessLog.Client
-build_property.ProjectDir = C:\Users\ychab\Repos\ProcessLog\Client\
+build_property.ProjectDir = c:\Users\ychab\Repos\ProcessLog\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ychab\Repos\ProcessLog\Client
+build_property.MSBuildProjectDirectory = c:\Users\ychab\Repos\ProcessLog\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ychab/Repos/ProcessLog/Client/App.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ychab/Repos/ProcessLog/Client/Pages/Index.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ychab/Repos/ProcessLog/Client/_Imports.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ychab/Repos/ProcessLog/Client/Pages/EditModel.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/Pages/EditModel.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE1vZGVsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-mb4tfgajyn
 
-[C:/Users/ychab/Repos/ProcessLog/Client/Shared/MainLayout.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/Shared/Etiquette.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV0aXF1ZXR0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3v3g08qco3
+
+[c:/Users/ychab/Repos/ProcessLog/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-44knewmhiu
 
-[C:/Users/ychab/Repos/ProcessLog/Client/Shared/NavMenu.razor]
+[c:/Users/ychab/Repos/ProcessLog/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-vq85bom6mq

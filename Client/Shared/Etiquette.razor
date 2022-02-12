@@ -1,0 +1,15 @@
+<div class="etiquette">
+    <div class="top">
+        <div class="titre">@etape.Titre</div>
+        <div class="numero">@etape.Numero</div>
+    </div>
+    <div class="status">@etape.ActivStatus</div>
+    <div class="commentaire">@etape.Commentaire</div>
+</div>
+
+@code {
+    [Parameter]
+    public Etape etape { get; set; }
+
+
+}
